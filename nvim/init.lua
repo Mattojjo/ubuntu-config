@@ -1,3 +1,4 @@
+vim.out.termguicolors = true
 -- Lazy.nvim bootstrap
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 --:NvimTreeToggle alias shortcut to Ctrl + n
